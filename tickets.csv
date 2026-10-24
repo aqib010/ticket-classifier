@@ -1,0 +1,121 @@
+text,category
+"Hi, Downgrade my subscription to the basic plan Thanks.",account_management
+"Hey, I cannot log in to my account Please help.",login_access
+"Hello team, Downgrade my subscription to the basic plan This is affecting my work.",account_management
+"Hi, Unable to sign in with my email This is affecting my work.",login_access
+"Hey, Two factor code is not working Thanks.",login_access
+"Hello team, Data disappears after refreshing the page",bug_report
+Urgent: I want to upgrade my plan Please help.,account_management
+Credit card was declined but money was deducted,billing
+Urgent: Please refund my last payment This is affecting my work.,billing
+"Hi, Please refund my last payment",billing
+"Hi, Search returns wrong results Please help.",bug_report
+Urgent: Cannot access dashboard after changing password Thanks.,login_access
+Unable to sign in with my email This is affecting my work.,login_access
+Urgent: Export button does nothing Thanks.,bug_report
+"Hey, Forgot my password and reset email never arrives",login_access
+Add an option to schedule reports Thanks.,feature_request
+Urgent: Page shows error 500 when uploading a file,bug_report
+"Hi, Billing address on invoice is incorrect Thanks.",billing
+How can I update my company name Thanks.,account_management
+"Hey, Page shows error 500 when uploading a file Please help.",bug_report
+"Hey, Data disappears after refreshing the page Please help.",bug_report
+"Hey, My login keeps saying invalid credentials Please help.",login_access
+"Hi, Cancel auto renewal and refund the charge This is affecting my work.",billing
+Billing address on invoice is incorrect Thanks.,billing
+"Hello team, I want to upgrade my plan",account_management
+"Hey, Please delete my account This is affecting my work.",account_management
+Search returns wrong results Thanks.,bug_report
+"Hello team, I was charged twice this month",billing
+"Hey, Please allow multiple user roles This is affecting my work.",feature_request
+"Hi, I want to upgrade my plan",account_management
+Urgent: Account locked after too many attempts This is affecting my work.,login_access
+"Hey, Password reset link has expired This is affecting my work.",login_access
+"Hello team, Cancel auto renewal and refund the charge",billing
+"Hello team, How do I change my email address Please help.",account_management
+Add the option to bulk delete items Please help.,feature_request
+"Hello team, Notifications are not showing up Please help.",bug_report
+Screen freezes on the settings page Thanks.,bug_report
+"Hello team, Add an option to schedule reports",feature_request
+"Hey, I cannot log in to my account This is affecting my work.",login_access
+Urgent: How can I update my company name Thanks.,account_management
+Urgent: My invoice shows the wrong amount This is affecting my work.,billing
+"Hey, Add the option to bulk delete items This is affecting my work.",feature_request
+Urgent: The app crashes when I click save Please help.,bug_report
+Mobile app closes unexpectedly on startup Please help.,bug_report
+It would be great to have a calendar view Thanks.,feature_request
+"Hey, Export button does nothing This is affecting my work.",bug_report
+"Hey, Mobile app closes unexpectedly on startup Please help.",bug_report
+Urgent: Export button does nothing Thanks.,bug_report
+"Hey, How can I update my company name This is affecting my work.",account_management
+"Hey, Why did my subscription price increase Please help.",billing
+"Hey, Need a copy of my receipt",billing
+Urgent: I was charged twice this month This is affecting my work.,billing
+"Hey, The app crashes when I click save Please help.",bug_report
+"Hi, Add an option to schedule reports",feature_request
+"Hey, My invoice shows the wrong amount",billing
+"Hello team, I cannot log in to my account Thanks.",login_access
+Notifications are not showing up,bug_report
+"Hey, Screen freezes on the settings page Please help.",bug_report
+"Hi, Add a new team member to my account This is affecting my work.",account_management
+Password reset link has expired Thanks.,login_access
+"Hi, I was charged twice this month",billing
+Add the option to bulk delete items This is affecting my work.,feature_request
+"Hey, Need integration with Slack This is affecting my work.",feature_request
+"Hey, Please allow multiple user roles Please help.",feature_request
+"Hi, Please allow multiple user roles",feature_request
+"Hey, Two factor code is not working",login_access
+Urgent: Search returns wrong results,bug_report
+"Hey, It would be great to have a calendar view Please help.",feature_request
+"Hey, Add a new team member to my account Please help.",account_management
+"Hey, Cannot access dashboard after changing password Thanks.",login_access
+Urgent: Add a new team member to my account,account_management
+"Hi, Transfer ownership of the account to my colleague Please help.",account_management
+"Hello team, Please add dark mode Thanks.",feature_request
+"Hey, Forgot my password and reset email never arrives This is affecting my work.",login_access
+Urgent: Would love keyboard shortcuts Thanks.,feature_request
+Urgent: Please add dark mode Thanks.,feature_request
+"Hi, Need integration with Slack This is affecting my work.",feature_request
+"Hi, Need integration with Slack",feature_request
+Can you support exporting to Excel,feature_request
+"Hi, It would be great to have a calendar view Thanks.",feature_request
+"Hey, Update my phone number on profile This is affecting my work.",account_management
+"Hey, Please delete my account",account_management
+Urgent: Why did my subscription price increase This is affecting my work.,billing
+"Hello team, Cancel auto renewal and refund the charge Please help.",billing
+"Hey, The app crashes when I click save",bug_report
+"Hi, Credit card was declined but money was deducted",billing
+Urgent: Page shows error 500 when uploading a file Thanks.,bug_report
+"Hello team, Downgrade my subscription to the basic plan Please help.",account_management
+"Hi, Password reset link has expired Please help.",login_access
+Urgent: Need a copy of my receipt Please help.,billing
+"Hi, Mobile app closes unexpectedly on startup Thanks.",bug_report
+Urgent: Please add dark mode This is affecting my work.,feature_request
+"Hello team, Transfer ownership of the account to my colleague",account_management
+Screen freezes on the settings page,bug_report
+Urgent: Would love keyboard shortcuts,feature_request
+"Hello team, Can you support exporting to Excel This is affecting my work.",feature_request
+Update my phone number on profile This is affecting my work.,account_management
+"Hello team, Unable to sign in with my email This is affecting my work.",login_access
+Urgent: Need a copy of my receipt,billing
+"Hey, Please delete my account Please help.",account_management
+My login keeps saying invalid credentials Please help.,login_access
+Urgent: Cannot access dashboard after changing password Thanks.,login_access
+"Hi, Account locked after too many attempts Thanks.",login_access
+Urgent: Notifications are not showing up,bug_report
+"Hello team, Can you support exporting to Excel This is affecting my work.",feature_request
+"Hey, My login keeps saying invalid credentials Please help.",login_access
+Urgent: How do I change my email address Thanks.,account_management
+Two factor code is not working This is affecting my work.,login_access
+"Hey, Forgot my password and reset email never arrives This is affecting my work.",login_access
+"Hey, Update my phone number on profile Thanks.",account_management
+"Hey, Transfer ownership of the account to my colleague This is affecting my work.",account_management
+Urgent: Billing address on invoice is incorrect,billing
+"Hey, Why did my subscription price increase Please help.",billing
+"Hello team, Credit card was declined but money was deducted",billing
+Urgent: Please refund my last payment,billing
+"Hello team, Would love keyboard shortcuts Please help.",feature_request
+Urgent: My invoice shows the wrong amount Thanks.,billing
+Urgent: Account locked after too many attempts Please help.,login_access
+"Hello team, Data disappears after refreshing the page Thanks.",bug_report
+"Hi, How do I change my email address",account_management
